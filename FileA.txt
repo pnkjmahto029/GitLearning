@@ -1,1 +1,2 @@
 This is FileA.txt.
+This is a chnage to the file.
